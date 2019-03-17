@@ -1,6 +1,8 @@
 def roll_call_dwarves(array)
   array=["Doc", "Dopey", "Bashful", "Grumpy"]
-  .include 
+  .include( "1. Dopey 2. Grumpy 3. Bashful ");
+      });
+});
 end
 
 def summon_captain_planet# code an argument here
